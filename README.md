@@ -20,30 +20,48 @@ I’m a **Data Science graduate student at the University of Houston** with 7+ y
 
 ---
 
-## My Projects  
+## Projects & Applications  
 
-### Concrete Strength Prediction  
-**Function:** Predicts compressive strength of concrete mixes for construction planning.  
-- Built and compared Random Forest, Gradient Boosting, and ANN models, achieving R² up to 0.92.  
+### Predictive Modeling & Analytics  
+**Function:** Builds regression and classification models to forecast outcomes.  
+- Predicted compressive strength of concrete mixes using Random Forest, Gradient Boosting, and ANN (R² up to 0.92).  
+- Classified seabed hardness with KNN, Decision Tree, and Random Forest, improving accuracy with feature engineering.  
 
-### NLP-CHQ-Summarization  
-**Function:** Summarizes consumer health questions into concise, medically relevant text.  
-- Implemented Bi-LSTM + Attention model, evaluated using ROUGE metrics.  
+### Natural Language Processing (NLP & GenAI)  
+**Function:** Applies deep learning and generative AI to extract insights and generate text.  
+- Built a Bi-LSTM + Attention model for abstractive summarization of consumer health questions, evaluated with ROUGE metrics.  
+- Leveraged embeddings (Word2Vec, GloVe) to improve semantic representation for summarization and classification tasks.  
 
-### NEXT-FLIX Recommender  
-**Function:** Provides personalized movie recommendations based on genre similarity.  
-- Developed an interactive Shiny app in R with dynamic recommendation and evaluation pipeline.  
+### Recommendation Systems  
+**Function:** Generates personalized content suggestions based on user preferences.  
+- Developed an R Shiny-based movie recommender using genre similarity with dynamic evaluation.  
 
-### Video Game Sales Analytics  
-**Function:** Visualizes sales trends across platforms, publishers, and genres.  
-- Designed Tableau dashboards analyzing 40+ years of global video game sales.  
+### Business Intelligence, Visualization & Reporting  
+**Function:** Converts raw datasets into interactive dashboards and analytical reports.  
+- Designed Tableau dashboards analyzing 40+ years of global video game sales by region, platform, and genre.  
+- Built Power BI dashboards on HR attrition and performance, identifying salary and satisfaction as key attrition drivers.  
+- Automated Tableau/Alteryx reporting workflows to track KPIs and training outcomes at Alcon.  
 
-### Intruder Detection System  
-**Function:** Detects and classifies intruders in real-time for security surveillance.  
-- Built YOLOv8 + OpenCV pipeline, improving classification accuracy by 20%.  
+### Computer Vision & Digital Image Processing  
+**Function:** Processes and interprets visual data for real-time detection and monitoring.  
+- Developed a YOLOv8 + OpenCV intruder detection system, improving classification accuracy by 20%.  
+- Applied image processing techniques (erosion, dilation, interpolation) to enhance surveillance outputs.
+  
+---
+## Values I Bring to My Work  
+
+- **Clarity & Simplicity** – I design solutions that are easy to use and scale.  
+- **Discipline & Planning** – I anticipate challenges and stay prepared.  
+- **Problem-Solving** – I turn complex problems into clear, actionable steps.  
+- **Collaboration** – I work well across teams and deliver reliably.  
+- **Attention to Detail** – I ensure accuracy and quality in every task.  
+- **Leadership & Accountability** – I take ownership, lead with integrity, and drive results.  
+- **End-to-End Delivery** – I develop and deploy complete solutions, from design to production.  
+- **Continuous Learning** – I stay curious and adapt quickly to new tools.
+
 ---
 
-## Links  
+## Connect with me  
 - Email: [nupoorkumbhar@gmail.com](mailto:nupoorkumbhar@gmail.com)  
 - LinkedIn: [linkedin.com/in/nupoorkumbhar](https://www.linkedin.com/in/nupoorkumbhar)  
 - GitHub: [github.com/nupoorrkumbar](https://github.com/nupoorrkumbar)  
