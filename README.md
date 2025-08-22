@@ -22,7 +22,7 @@ I’m a **Data Science enthusiast** with 7+ years of professional experience in 
 
 ## What I’ve Built and Applied
 
-### Predictive Modeling & Analytics  
+### [Predictive Modeling & Analytics](https://github.com/nupoorrkumbar/concrete-strength-prediction) 
 - Built regression and classification models to forecast outcomes.  
 - Predicted compressive strength of concrete mixes using Random Forest, Gradient Boosting, and ANN (R² up to 0.92).  
 - Classified seabed hardness with KNN, Decision Tree, and Random Forest, improving accuracy with feature engineering.  
