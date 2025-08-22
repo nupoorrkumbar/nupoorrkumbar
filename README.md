@@ -20,29 +20,29 @@ I’m a **Data Science graduate student at the University of Houston** with 7+ y
 
 ---
 
-## Projects & Applications  
+## What I’ve Built and Applied
 
 ### Predictive Modeling & Analytics  
-Built regression and classification models to forecast outcomes.  
+- Built regression and classification models to forecast outcomes.  
 - Predicted compressive strength of concrete mixes using Random Forest, Gradient Boosting, and ANN (R² up to 0.92).  
 - Classified seabed hardness with KNN, Decision Tree, and Random Forest, improving accuracy with feature engineering.  
 
 ### Natural Language Processing (NLP & GenAI)  
-Applied deep learning and generative AI to extract insights and generate text.  
+- Applied deep learning and generative AI to extract insights and generate text.  
 - Built a Bi-LSTM + Attention model for abstractive summarization of consumer health questions, evaluated with ROUGE metrics.  
 - Leveraged embeddings (Word2Vec, GloVe) to improve semantic representation for summarization and classification tasks.  
 
 ### Recommendation Systems  
-Generated personalized content suggestions based on user preferences.  
+- Generated personalized content suggestions based on user preferences.  
 - Developed an R Shiny-based movie recommender using genre similarity with dynamic evaluation.  
 
 ### Business Intelligence, Visualization & Reporting  
-Converted raw datasets into interactive dashboards and analytical reports.  
+- Converted raw datasets into interactive dashboards and analytical reports.  
 - Designed Tableau dashboards analyzing 40+ years of global video game sales by region, platform, and genre.  
 - Automated Tableau/Alteryx reporting workflows to track KPIs and training outcomes at Alcon.  
 
 ### Computer Vision & Digital Image Processing  
-Processesed and interpreted visual data for real-time detection and monitoring.  
+- Processesed and interpreted visual data for real-time detection and monitoring.  
 - Developed a YOLOv8 + OpenCV intruder detection system, improving classification accuracy by 20%.  
 - Applied image processing techniques (erosion, dilation, interpolation) to enhance surveillance outputs.
   
