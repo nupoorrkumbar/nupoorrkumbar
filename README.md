@@ -14,7 +14,7 @@ I’m a **Data Science enthusiast** with 7+ years of professional experience in 
 
 ## What Drives Me  
 
-- Designing **practical solutions** that simplify workflows  
+- Designing **real-world innovative solutions** that simplify workflows  
 - Building with a mix of **logic, creativity, and business focus**  
 - Always learning, improving, and adapting to new challenges  
 
