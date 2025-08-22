@@ -1,6 +1,6 @@
 # Hi, I’m Nupoor  
 
-I’m a **Data Science graduate student at the University of Houston** with 7+ years of professional experience in software engineering. My focus areas include **machine learning, NLP, and automation** — bridging engineering discipline with advanced analytics.  
+I’m a **Data Science graduate student at the University of Houston** with 7+ years of professional experience in software engineering. My focus areas include **machine learning, NLP, automation and visualization** — bridging engineering discipline with advanced analytics.  
 
 ---
 
