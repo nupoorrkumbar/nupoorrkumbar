@@ -39,7 +39,6 @@ Generated personalized content suggestions based on user preferences.
 ### Business Intelligence, Visualization & Reporting  
 Converted raw datasets into interactive dashboards and analytical reports.  
 - Designed Tableau dashboards analyzing 40+ years of global video game sales by region, platform, and genre.  
-- Built Power BI dashboards on HR attrition and performance, identifying salary and satisfaction as key attrition drivers.  
 - Automated Tableau/Alteryx reporting workflows to track KPIs and training outcomes at Alcon.  
 
 ### Computer Vision & Digital Image Processing  
